@@ -6,3 +6,9 @@
 # Diovante Bain -M1- Project setup, main program, integration
 # Elena Barnett -M2- Calculator module and statistics module
 
+# Files Included:
+# -main.py
+# -calculator.py
+# -README.md
+
+
